@@ -4,4 +4,6 @@
     <string name="menu_clear">Clear</string>
     <string name="menu_delete">Delete</string>
     <string name="menu_edit">Edit</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_button">POPUP MENU</string>
 </resources>
